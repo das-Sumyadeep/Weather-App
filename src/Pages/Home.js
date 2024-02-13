@@ -8,8 +8,8 @@ function Home() {
       {/* mobile Device */}
 
       <div className="sm:flex xs:flex md:hidden xm:hidden lg:hidden xl:hidden">
-        <div className="container mx-auto my-24 overflow-hidden">
-          <div className="flex items-center flex-col gap-6">
+        <div className="container mx-auto my-24 overflow-auto">
+          <div className="flex items-start flex-col gap-6">
             <div className="h-88 w-1/3 flex flex-col justify-center gap-4">
               <div>
                 <h3 className="text-lg font-serif font-semibold text-gray-700">
